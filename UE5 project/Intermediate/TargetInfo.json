@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FPSPrototype",
+			"Path": "D:\\UE5\\nauka\\FPSPrototype\\Source\\FPSPrototype.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FPSPrototypeEditor",
+			"Path": "D:\\UE5\\nauka\\FPSPrototype\\Source\\FPSPrototypeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

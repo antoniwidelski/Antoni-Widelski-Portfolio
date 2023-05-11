@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5\\nauka\\fpsprototype\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsprototype\\uht\\mainmenugamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\nauka\\fpsprototype\\intermediate\\build\\win64\\fpsprototypeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue5\\nauka\\fpsprototype\\intermediate\\build\\win64\\unrealeditor\\development\\fpsprototype\\definitions.fpsprototype.h",
+            "d:\\ue5\\nauka\\fpsprototype\\source\\fpsprototype\\mainmenugamemode.h",
+            "d:\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\ue5\\nauka\\fpsprototype\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsprototype\\uht\\mainmenugamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5\\nauka\\fpsprototype\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsprototype\\uht\\magecharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\nauka\\fpsprototype\\intermediate\\build\\win64\\fpsprototypeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue5\\nauka\\fpsprototype\\intermediate\\build\\win64\\unrealeditor\\development\\fpsprototype\\definitions.fpsprototype.h",
+            "d:\\ue5\\nauka\\fpsprototype\\source\\fpsprototype\\magecharacter.h",
+            "d:\\ue5\\nauka\\fpsprototype\\source\\fpsprototype\\enemycharacter.h",
+            "d:\\ue5\\nauka\\fpsprototype\\source\\fpsprototype\\basecharacter.h",
+            "d:\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\ue5\\nauka\\fpsprototype\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsprototype\\uht\\basecharacter.generated.h",
+            "d:\\ue5\\nauka\\fpsprototype\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsprototype\\uht\\enemycharacter.generated.h",
+            "d:\\ue5\\nauka\\fpsprototype\\intermediate\\build\\win64\\unrealeditor\\inc\\fpsprototype\\uht\\magecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

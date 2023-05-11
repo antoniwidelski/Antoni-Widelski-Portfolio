@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE5\\nauka\\FPSPrototype\\Source\\FPSPrototype\\FPSPrototype.Build.cs",
+		"D:\\UE5\\nauka\\FPSPrototype\\Source\\FPSPrototype.Target.cs",
+		"D:\\UE5\\nauka\\FPSPrototype\\Source\\FPSPrototypeEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

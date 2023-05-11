@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5\\nauka\\fpsprototype\\intermediate\\build\\win64\\unrealgame\\inc\\fpsprototype\\uht\\fpsprototype.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5\\nauka\\fpsprototype\\intermediate\\build\\win64\\fpsprototype\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue5\\nauka\\fpsprototype\\intermediate\\build\\win64\\unrealgame\\shipping\\fpsprototype\\definitions.fpsprototype.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
